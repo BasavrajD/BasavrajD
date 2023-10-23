@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhamanagebasavraj@gmail.com**
 
-- ✉️ My portfolio website **basavraj-portfolio.netlify.app**
+- ✉️ My portfolio website **https://basavraj-portfolio.netlify.app/**
 
 
 <h3 align="left">Connect with me:</h3>
